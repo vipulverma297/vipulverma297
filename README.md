@@ -2,35 +2,53 @@
 <h3 align="center">Frontend Engineer | React • Next.js • Scalable UI Systems</h3>
 
 <p align="center">
-Building performant, scalable, and user-focused web applications.
+I build scalable, production-ready web applications independently.
 </p>
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ---
 
 ### 🧠 About Me
-- 🚀 Frontend Engineer specializing in **React & Next.js ecosystems**
-- 🏗️ Experience building **scalable, maintainable UI architectures**
-- ⚡ Strong focus on **performance optimization & clean code**
-- 🔄 Comfortable working with **APIs, state management, and modern workflows**
-- 🎯 Moving toward **Full Stack & System Design**
+- 🚀 Frontend Developer working **independently on full projects**
+- 🏗️ Focused on **clean architecture & scalable UI**
+- ⚡ Strong in **React ecosystem & performance optimization**
+- 🔄 Experienced with **API integration & real-world apps**
+- 🐳 Currently learning **Docker & CI/CD deployments**
+- 🎯 Goal: Become a **Full Stack Engineer & Team Lead**
 
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend**
-- React.js • Next.js • JavaScript (ES6+)
-- HTML5 • CSS3 • Tailwind • Sass
+#### 🎨 Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+</p>
 
-**Engineering**
-- Component Architecture
-- Responsive Design Systems
-- API Integration
-- Performance Optimization
+#### ⚙️ Tools & Systems
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
 
-**Tools & Workflow**
-- Git • GitHub • Linux
-- Debugging • Code Reviews • Dev Collaboration
+---
+
+### ⚡ Engineering Skills
+- Component-Based Architecture  
+- Responsive & Mobile-First Design  
+- REST API Integration  
+- Performance Optimization  
+- Clean Code & Maintainability  
+- Debugging & Problem Solving  
 
 ---
 
@@ -47,20 +65,14 @@ Building performant, scalable, and user-focused web applications.
 
 ### 🌐 Connect
 <p align="center">
-<a href="https://linkedin.com/in/vipul-verma297">
-LinkedIn
-</a> • 
-<a href="mailto:vipulverma600528@gmail.com">
-Email
-</a>
+<a href="https://linkedin.com/in/vipul-verma297">LinkedIn</a> • 
+<a href="mailto:vipulverma600528@gmail.com">Email</a>
 </p>
 
 ---
 
-### 💡 Engineering Mindset
-- Write code for **readability & scalability**
-- Focus on **real-world problem solving**
-- Prefer **clean architecture over quick hacks**
-- Continuously learning and adapting
-
----
+### 💡 Developer Mindset
+- Build **end-to-end projects independently**
+- Focus on **scalability over shortcuts**
+- Continuously learning **modern DevOps (Docker, CI/CD)**
+- Write code that is **clean, readable, and production-ready**
