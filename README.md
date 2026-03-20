@@ -52,9 +52,7 @@ I build scalable, production-ready web applications independently.
 ---
 
 ### 📊 GitHub Insights
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vipulverma297&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=vipulverma297&theme=tokyonight&hide_border=true" />
